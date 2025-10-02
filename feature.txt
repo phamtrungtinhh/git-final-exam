@@ -1,0 +1,6 @@
+Tính năng: Quản lý giỏ hàng
+1. Cho phép thêm sách vào giỏ.
+2. Hiển thị số lượng và tổng tiền.
+3. Cho phép xóa sản phẩm khỏi giỏ.
+4. Lưu giỏ hàng tạm thời cho mỗi người dùng.
+5. Nâng cấp trong tương lai: tích hợp thanh toán online.
